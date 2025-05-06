@@ -1,6 +1,7 @@
 {
   "name": "my-app",
-  "homepage": "https://github231217.github.io/GoogleMap",
+  "homepage": "https://gaurav231217.github.io/GoogleMap",
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,9 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "leaflet": "^1.9.4",
     "leaflet-routing-machine": "^3.2.12",
+   
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-leaflet": "^5.0.0"
