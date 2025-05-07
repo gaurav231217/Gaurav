@@ -89,7 +89,7 @@ function App() {
   return (
     <div style={{ overflow:"hidden" }}>
 
-    GKTtttt
+    GKTttttttt
       <div className="search-bar">
         <input type="text" value={origin} placeholder="From" onChange={(e)=>{setOrigin(e.target.value)}} />
         <input type="text" value={destination} placeholder="To" onChange={(e)=>{setDestination(e.target.value)}} />
